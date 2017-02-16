@@ -1,12 +1,9 @@
-#include <iostream>
 #include <stdio.h>
 
-using namespece std:
 
 int main()
 {
+  printf("Hello");
 
-cout<<"Ready?";
-
-system("PAUSE");
+return 0;
 }
