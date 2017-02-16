@@ -3,7 +3,9 @@
 
 int main()
 {
-  printf("Hello");
+	int n;
+  printf("Vvedite comandu");
+  scanf("%d", &n);
 
 return 0;
 }
